@@ -11,7 +11,7 @@ using Timer = System.Timers.Timer;
 
 namespace digitalclockcsharp
 {
-    // The digital clock is working great.  Digital fonts are TrueType but Visual Studio doesn't agree.
+    // The digital clock is working great and digital fonts are looking great as well now.
     public partial class Form1 : Form
     {
         public Form1()

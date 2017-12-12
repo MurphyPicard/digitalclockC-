@@ -40,11 +40,11 @@
             // 
             this.lblTime.AutoSize = true;
             this.lblTime.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.lblTime.Font = new System.Drawing.Font("Microsoft Sans Serif", 72F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblTime.Font = new System.Drawing.Font("DS-Digital", 72F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTime.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.lblTime.Location = new System.Drawing.Point(223, 244);
             this.lblTime.Name = "lblTime";
-            this.lblTime.Size = new System.Drawing.Size(284, 108);
+            this.lblTime.Size = new System.Drawing.Size(249, 95);
             this.lblTime.TabIndex = 0;
             this.lblTime.Text = "22:22";
             // 
@@ -52,11 +52,11 @@
             // 
             this.lblSeconds.AutoSize = true;
             this.lblSeconds.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.lblSeconds.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSeconds.Font = new System.Drawing.Font("DS-Digital", 36F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblSeconds.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.lblSeconds.Location = new System.Drawing.Point(513, 288);
             this.lblSeconds.Name = "lblSeconds";
-            this.lblSeconds.Size = new System.Drawing.Size(78, 55);
+            this.lblSeconds.Size = new System.Drawing.Size(68, 47);
             this.lblSeconds.TabIndex = 1;
             this.lblSeconds.Text = "22\r\n";
             // 
@@ -64,11 +64,11 @@
             // 
             this.lblDate.AutoSize = true;
             this.lblDate.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.lblDate.Font = new System.Drawing.Font("Franklin Gothic Medium", 48F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDate.Font = new System.Drawing.Font("DS-Digital", 48F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDate.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.lblDate.Location = new System.Drawing.Point(509, 136);
             this.lblDate.Name = "lblDate";
-            this.lblDate.Size = new System.Drawing.Size(362, 81);
+            this.lblDate.Size = new System.Drawing.Size(305, 63);
             this.lblDate.TabIndex = 2;
             this.lblDate.Text = "FEB 2 2022";
             // 
@@ -76,11 +76,11 @@
             // 
             this.lblDay.AutoSize = true;
             this.lblDay.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.lblDay.Font = new System.Drawing.Font("Franklin Gothic Medium", 48F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblDay.Font = new System.Drawing.Font("DS-Digital", 48F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblDay.ForeColor = System.Drawing.SystemColors.ControlLightLight;
             this.lblDay.Location = new System.Drawing.Point(227, 136);
             this.lblDay.Name = "lblDay";
-            this.lblDay.Size = new System.Drawing.Size(251, 81);
+            this.lblDay.Size = new System.Drawing.Size(213, 63);
             this.lblDay.TabIndex = 3;
             this.lblDay.Text = "Monday";
             // 
